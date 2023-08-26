@@ -2,9 +2,8 @@
 
 Gists API Wrapper for Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Rudolph-Miller/cl-gists.git   |
-| commit  | bcf3687  |
-| systems | cl-gists |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/Symbolics/cl-gists.git |
+| commit  | a8c66fe                                       |
+| systems | cl-gists                                      |
+|---------+-----------------------------------------------|
