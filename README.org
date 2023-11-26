@@ -4,6 +4,6 @@ Gists API Wrapper for Common Lisp
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/Symbolics/cl-gists.git |
-| commit  | bcf3687                                       |
+| commit  | 052ba4f                                       |
 | systems | cl-gists                                      |
 |---------+-----------------------------------------------|
